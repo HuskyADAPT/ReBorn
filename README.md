@@ -2,12 +2,12 @@
 Welcome to the Husky ADAPT Reborn project page!
 
 
-# LOGO
-Coming soon!
+![huskyadapt](https://user-images.githubusercontent.com/32558447/33237175-360148da-d221-11e7-926b-5a83a1c08ed2.jpg)
+
 
 # About
 We are team ReBorn! Our focus is on enhancing the cooking experience. We aim to create a design that turns a two-handed activity in the kitchen into a one-handed task. 
-![Team picture with Cajun, Carolee, and Tom](TeamPhoto.jpg)
+![teamphoto](https://user-images.githubusercontent.com/32558447/33237153-30846460-d220-11e7-9968-3aeba5646317.jpg)
 
 ## Progress
 Week 1 <br>
@@ -30,6 +30,11 @@ Our goal this week was to create point of view statements that will help guide u
 *How might we increase the scope of activities Carolee can do in the kitchen? <br>
 How might we make cooking a daily hobby for Carolee? <br>
 How might we make cooking a zero-handed process?* <br>
+
+Week 6 <br>
+We continued to brainstorm ideas. This week we went all out with sticky notes
+![img_8337](https://user-images.githubusercontent.com/32558447/33237199-b5695dba-d221-11e7-8bb2-c9068b2e9891.jpg)
+
 
 ## Meet the Designers
 **Kristin Anderson** is a third year Mechanical Engineering student <br>
