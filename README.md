@@ -32,7 +32,8 @@ How might we make cooking a daily hobby for Carolee? <br>
 How might we make cooking a zero-handed process?* <br>
 
 Week 6 <br>
-We continued to brainstorm ideas. This week we went all out with sticky notes
+Our current needs statement is: *Carolee needs a hands-free way to prepare food because she is passionate about cooking and would like to use her current strengths and Tom's help to do that* <br>
+We also continued to brainstorm ideas. This week we went all out with sticky notes
 ![img_8337](https://user-images.githubusercontent.com/32558447/33237199-b5695dba-d221-11e7-8bb2-c9068b2e9891.jpg)
 
 
