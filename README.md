@@ -47,10 +47,40 @@ We are starting to think of our next meeting with Carolee, and how we can get th
 
 Week 10 <br>
 This week, we are preparing for our Autumn showcase. We are waiting for a response from Carolee, but in the meantime, we are looking for ways to use the showcase as a way of getting feedback from the community. As a recap, our current directions include cutting food, peeling food, seasoning food, dispensing snacks, and dispensing liquids. We want to know which of our 5 directions people like the most, and which one they think is the most challenging to accomplish using just one hand. We have prepared activities for the guests to try out, so they can see first hand how tricky it can be to do these things with one hand. To measure their responses, we will have them vote on which activity was the most challenging, and which one they think has the most potential for future design.<br>
-This is our poster for the 2017 Autumn showcase. 
+This is our poster for the 2017 Autumn showcase. <br>
+![poster](https://user-images.githubusercontent.com/32558447/35486222-b02ab76a-041f-11e8-900b-6318ec5353e1.jpg)
+
+Week 11 <br>
+Before we leave for winter break, here is are the results from the showcase.<br>
+Cutting food was the most popular choice among guests at the showcase, and Carolee+Tom.<br>
+We received a lot of great feedback from thiss showcase, and we are excited for our next phase of product development once we start school in January 2018!
+
+## Winter Quarter 2018<br>
+
+Week 1 <br>
+Over the break we brainstormed potential ideas for one-handed cutting devices. Justin created quick 3D renders of our ideas
+![weekonerenderscombined](https://user-images.githubusercontent.com/32558447/35486543-234a119c-0424-11e8-90d4-7141604cdff1.jpg)
+
+Week 2 <br>
+We met up with Carolee this week to show her our current ideas and get feedback. We found out that she has the most difficulty cutting cooked meats such as chicken. She also wants a way to cut food directly on her plate, instead of cutting it on a cutting board and then transferring it onto her plate. It is also important that the product is dish washer safe, and lightweight. <br>
+Additional findings we discovered: We measured how much Carolee can pick up, and it turns out she can lift up to 12oz instead of the 5oz we originally assumed. The shape of the object is important too; it was not within her ability to lift up a 12oz gym ball, but she could easily lift a 12oz book. This is because the book was easier for her to grip. 
+
+Week 3 <br>
+After talking to Carolee, we began thinking of ways we can create a device that chops food on or into a plate. Justin made another render, and 3D printed the design. A blade was very carefully added to the design, and we successfully cut a piece of popcorn with it; but could it stand up to something as tough as cooked chicken?<br>
+This is a lineup of our prototypes currently
+![prototypes-01](https://user-images.githubusercontent.com/32558447/35486664-2d074e00-0426-11e8-9025-41a1934acedb.jpg)
+After getting critiques on our prototypes from the teaching team, this is a render that we came up with
+![reborn2combinedrenders](https://user-images.githubusercontent.com/32558447/35486614-65861e4c-0425-11e8-8fec-32da4785eeaf.jpg)
+
+Week 4 <br>
+We met with Carolee and Tom again to show them our prototypes. From this meeting, we learned about which grips are easiest for her to use, and which design languages she is drawn toward. 
+![carolee 2](https://user-images.githubusercontent.com/32558447/35486700-bd8eafa4-0426-11e8-959d-ba170dad6b27.JPG)
+We showed Carolee and Tom mood boards with different kitchen brands. Oxo and Chef'n were their favorite because of the simple design language (oxo) and fun form and colors (Chef'n).
+![carolee 7](https://user-images.githubusercontent.com/32558447/35486708-d584431c-0426-11e8-8c8a-5da366bc8d22.JPG)
+
 
 ## Meet the Designers
 **Kristin Anderson** is a third year Mechanical Engineering student <br>
 **Justin Ho** is a junior in the Mechanical Engineering department at the UW <br>
-**Victoria Peskin** is studying Industrial Design <br>
-**Aditya Sharma** studies Electrical Engineering <br>
+**Victoria Peskin** is in her junior year in the Industrial Design program<br>
+**Aditya Sharma** is a junior studying Electrical Engineering <br>
