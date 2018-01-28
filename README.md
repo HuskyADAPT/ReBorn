@@ -34,8 +34,20 @@ How might we make cooking a zero-handed process?* <br>
 Week 6 <br>
 Our current needs statement is: *Carolee needs a hands-free way to prepare food because she is passionate about cooking and would like to use her current strengths and Tom's help to do that* <br>
 We also continued to brainstorm ideas. This week we went all out with sticky notes
-![img_8337](https://user-images.githubusercontent.com/32558447/33237199-b5695dba-d221-11e7-8bb2-c9068b2e9891.jpg)
+![img_8337](https://user-images.githubusercontent.com/32558447/33237199-b5695dba-d221-11e7-8bb2-c9068b2e9891.jpg) <br>
 
+Week 7 <br>
+We currently have 5 direction; cutting food, peeling food, seasoning food, dispensing snacks, nd dispensing liquids. We hope to narrow our focus to one direction by the end of the quarter. There have been a lot of scheduling conflicts, so our group has not been able meet for as long as we want during the weekly meeting.
+
+Week 8 <br>
+No class this week due to break, but we will all bring ideas to our next meeting. Happy Thanksgiving!
+
+Week 9 <br>
+We are starting to think of our next meeting with Carolee, and how we can get the most out of it. We want to better understand her range of arm and hand motions, and see what sort of grips are easiest for her to work with. 
+
+Week 10 <br>
+This week, we are preparing for our Autumn showcase. We are waiting for a response from Carolee, but in the meantime, we are looking for ways to use the showcase as a way of getting feedback from the community. As a recap, our current directions include cutting food, peeling food, seasoning food, dispensing snacks, and dispensing liquids. We want to know which of our 5 directions people like the most, and which one they think is the most challenging to accomplish using just one hand. We have prepared activities for the guests to try out, so they can see first hand how tricky it can be to do these things with one hand. To measure their responses, we will have them vote on which activity was the most challenging, and which one they think has the most potential for future design.<br>
+This is our poster for the 2017 Autumn showcase. 
 
 ## Meet the Designers
 **Kristin Anderson** is a third year Mechanical Engineering student <br>
