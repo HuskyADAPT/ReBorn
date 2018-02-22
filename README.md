@@ -78,6 +78,13 @@ We met with Carolee and Tom again to show them our prototypes. From this meeting
 We showed Carolee and Tom mood boards with different kitchen brands. Oxo and Chef'n were their favorite because of the simple design language (oxo) and fun form and colors (Chef'n).
 ![carolee 7](https://user-images.githubusercontent.com/32558447/35486708-d584431c-0426-11e8-8c8a-5da366bc8d22.JPG)
 
+Week 5 <br>
+During our midterm presentation, we presented two potential design directions; one that is portable, and one for home use. They are quite different, so we are hoping to narrow it down to just one direction in the following week(s). Check out our designs:<br>
+![chopperversion2 2](https://user-images.githubusercontent.com/32558447/36526990-1454f342-1765-11e8-97a4-44f055ef8b06.jpg)
+
+![27846303_1546155222167311_355843950_o](https://user-images.githubusercontent.com/32558447/36527012-2b0782a8-1765-11e8-9d39-322cb821ba31.jpg)
+
+
 
 ## Meet the Designers
 **Kristin Anderson** is a third year Mechanical Engineering student <br>
